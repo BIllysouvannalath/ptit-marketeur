@@ -1,5 +1,5 @@
 ---
-title: "Comment faire de l'affiliation grâce à Amazon ? "
+title: "Cours Affiliation"
 date: 2020-12-01
 author: Billy
 
@@ -8,7 +8,7 @@ categories: ["cour&formation","Affiliation "]
 Temps du cours: 70h
 ---
 
-# Comment faire de l'affiliation grâce à Amazon ?
+# Cours Affiliation
 
-Qu'est ce que l'affiliation ? et comment gagné de l'argent grâce à cela ?
+Dans ce cours, nous allons vous apprendre tous ce qu'il faut savoir sur l'affiliation et pour terminer un peu de pratique.
 ...

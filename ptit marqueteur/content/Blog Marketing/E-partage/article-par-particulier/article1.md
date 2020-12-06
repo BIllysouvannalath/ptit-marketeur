@@ -5,7 +5,7 @@ author: George
 
 categories: ["Blog-marketing","E-partage" "article-par-particulier"]
 
-Temps de lecture: 4min
+Temps de lecture: 10min
 ---
 
 # Comment faire du dropshipping facilement
